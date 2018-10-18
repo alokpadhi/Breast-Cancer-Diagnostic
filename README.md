@@ -31,4 +31,8 @@ Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
 
+## File Description:
+  1. input/data.csv : This file has the breast cancer data with 30 feaures.
+  2. Exploratory_Dat_Analysis: This is the file to analyse the data, both statistically and visually
+
 
